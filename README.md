@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm Zeina 👋
+I'm a Computer Engineering student at Ajman University.
+I ask a lot of “what if?” questions. Learning to turn some of them into code.
 
-<!--
-**zeinais/Zeinais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Curious about alternate futures
+ Interested in sustainability and useful technology
+ Here to build, break things, and figure out why they broke
 
-Here are some ideas to get you started:
+### Currently loading...
+- Programming foundations
+- The bridge between hardware and software
+- A first project I can proudly explain, bugs included
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Away from the keyboard
+Reading, making memories with friends, and yapping
+in debates nobody asked me to start.
+
+First year. Plenty of questions. Let's see what I build :)
